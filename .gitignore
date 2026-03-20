@@ -1,0 +1,16 @@
+# Segurança
+.env
+__pycache__
+
+# Dados - Camada Bronze e Prata
+# Ignorando tudo dentro dessas pastas
+data/bronze/*
+data/silver/*
+
+# Não ignorar o arquivo .gitkeep
+!**/.gitkeep
+
+# --- LOGS E SISTEMA ---
+*.log
+.DS_Store
+Thumbs.db

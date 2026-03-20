@@ -1,0 +1,10 @@
+google-generativeai
+pandas
+sqlalchemy
+geopy
+importnb
+streamlit
+python-dotenv
+pyodbc
+Pillow
+numpy
