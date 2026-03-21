@@ -26,7 +26,7 @@ Para dúvidas, parcerias ou oportunidades profissionais, sinta-se à vontade par
 
 ## 📺 Demonstração em Vídeo
 ▶️ **[Assista à apresentação técnica do projeto aqui](https://youtu.be/ubhheIY4XdE)**
-*(Confira em menos de 2 minutos como o projeto automatiza o ETL com Gemini IA e gera os insights no Power BI)*
+*(Confira em menos de 4 minutos como o projeto automatiza o ETL com Gemini IA e gera os insights no Power BI)*
 
 ---
 
